@@ -10,6 +10,7 @@ Ditulis menggunakan Notepad++
 ## Instalasi
 
 - Cukup taruh file exoticls_fahmiyufrizal.exe di dalam folder LostSagaEx bersamaan dengan lswebbroker seisinya
+[![Screenshot-205.png](https://github.com/fahmiyufrizal/exoticlauncher-warnet/raw/main/Screenshot%20(205).png)]( )
 
 ## Lisensi
 
