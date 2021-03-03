@@ -17,6 +17,7 @@ Ditulis menggunakan Notepad++
 ## Lisensi
 
 - Open-Source, cukup jangan ganti nama filenya saja. Batch boleh diextract dan diedit sesuai kebutuhan
+- BatExecutor by bdstd@2021
 
 ## Terimakasih Kepada
 
