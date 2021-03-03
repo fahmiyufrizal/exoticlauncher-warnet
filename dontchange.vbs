@@ -1,0 +1,1 @@
+msgbox "Jangan ganti nama filenya wkwkwk" & Chr(13) & Chr(10) & " "  & Chr(13) & Chr(10) &  "Dont change the name file lmao" ,48, "fahmiyufrizal@2020"

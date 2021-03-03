@@ -1,0 +1,1 @@
+msgbox "Mohon taruh file exoticls_fahmiyufrizal.exe didalam folder LostSagaEx bersama dengan file lswebbroker.exe!" & Chr(13) & Chr(10) & " "  & Chr(13) & Chr(10) &  "Please place exoticls_fahmiyufrizal.exe inside the LostSagaEx folder with lswebbroker.exe!" ,48, "fahmiyufrizal@2020"

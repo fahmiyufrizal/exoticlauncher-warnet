@@ -1,0 +1,1 @@
+msgbox "Setting salah, silahkan cek lagi" & Chr(13) & Chr(10) & " "  & Chr(13) & Chr(10) &  "Wrong setting, check again" ,48, "fahmiyufrizal@2020"
