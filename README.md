@@ -1,7 +1,11 @@
-# LostSaga Exotic Launcher
+# LostSaga Exotic Launcher (Discontinued)
 
 Launcher LostSaga Exotic untuk Penggunaan Pribadi atau Warnet. Support Local/Virtual/Diskless. 
 Ditulis menggunakan Notepad++
+
+## Status Project
+
+- Discontinued. Developer sudah mengaplikasikan metode login dengan launcher. Launcher ini sudah tidak dibutuhkan lagi.
 
 ## Fitur
 
